@@ -1,0 +1,11 @@
+@model Planets.Models.APODModelView
+
+<div class="card" style="width: 18rem;">
+    <img class="card-img-top" asp-src="@Model.Url" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <p class="card-text">@Model.Explanation</p>
+        <a href="#" class="btn btn-primary">Day before</a>
+        <a href="#" class="btn btn-primary">Next day</a>
+    </div>
+</div>
