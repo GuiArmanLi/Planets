@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/o+vJ1/sHERTWib7JOVcdCavADXEIrUiqCururFgnrDUR9WW4s2nhc6AbTeI2aL4qZeNKpHHeADUXZq6Bb5dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gui\\OneDrive\\Anexos\\Área de Trabalho\\Planets\\app\\src\\Planets.Application\\Planets.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gui\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

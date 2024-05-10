@@ -1,0 +1,13 @@
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\obj\Debug\net8.0\Planets.Application.csproj.AssemblyReference.cache
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\obj\Debug\net8.0\Planets.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\obj\Debug\net8.0\Planets.Application.AssemblyInfoInputs.cache
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\obj\Debug\net8.0\Planets.Application.AssemblyInfo.cs
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\obj\Debug\net8.0\Planets.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\obj\Debug\net8.0\Planets.Application.sourcelink.json
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\bin\Debug\net8.0\Planets.Application.deps.json
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\bin\Debug\net8.0\Planets.Application.dll
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\bin\Debug\net8.0\Planets.Application.pdb
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\obj\Debug\net8.0\Planets.Application.dll
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\obj\Debug\net8.0\refint\Planets.Application.dll
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\obj\Debug\net8.0\Planets.Application.pdb
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.Application\obj\Debug\net8.0\ref\Planets.Application.dll

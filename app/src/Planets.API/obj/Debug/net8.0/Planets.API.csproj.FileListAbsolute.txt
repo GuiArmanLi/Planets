@@ -1,0 +1,5 @@
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.API\obj\Debug\net8.0\Planets.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.API\obj\Debug\net8.0\Planets.API.AssemblyInfoInputs.cache
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.API\obj\Debug\net8.0\Planets.API.AssemblyInfo.cs
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.API\obj\Debug\net8.0\Planets.API.csproj.CoreCompileInputs.cache
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Planets.API\obj\Debug\net8.0\Planets.API.sourcelink.json
