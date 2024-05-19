@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planets.Infra.CrossCutting", "CrossCutting\Planets.Infra.CrossCutting.csproj", "{D3ECC93E-BDD2-47DC-A23D-70C2278CA783}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planets.Infra.Data", "Data\Planets.Infra.Data.csproj", "{8DAB7D26-5495-4593-AC4B-5409F9ABD3A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3ECC93E-BDD2-47DC-A23D-70C2278CA783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3ECC93E-BDD2-47DC-A23D-70C2278CA783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3ECC93E-BDD2-47DC-A23D-70C2278CA783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3ECC93E-BDD2-47DC-A23D-70C2278CA783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DAB7D26-5495-4593-AC4B-5409F9ABD3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAB7D26-5495-4593-AC4B-5409F9ABD3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAB7D26-5495-4593-AC4B-5409F9ABD3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAB7D26-5495-4593-AC4B-5409F9ABD3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B83320CF-19F0-4EDA-941F-4EB7A6B692C1}
+	EndGlobalSection
+EndGlobal

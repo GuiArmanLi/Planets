@@ -1,0 +1,15 @@
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\bin\Debug\net8.0\Planets.Infra.CrossCutting.deps.json
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\bin\Debug\net8.0\Planets.Infra.CrossCutting.dll
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\bin\Debug\net8.0\Planets.Infra.CrossCutting.pdb
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\bin\Debug\net8.0\Planets.Domain.dll
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\bin\Debug\net8.0\Planets.Domain.pdb
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\obj\Debug\net8.0\Planets.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\obj\Debug\net8.0\Planets.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\obj\Debug\net8.0\Planets.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\obj\Debug\net8.0\Planets.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\obj\Debug\net8.0\Planets.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\obj\Debug\net8.0\Planets..37D77D56.Up2Date
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\obj\Debug\net8.0\Planets.Infra.CrossCutting.dll
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\obj\Debug\net8.0\refint\Planets.Infra.CrossCutting.dll
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\obj\Debug\net8.0\Planets.Infra.CrossCutting.pdb
+C:\Users\Gui\OneDrive\Anexos\Área de Trabalho\Planets\app\src\Infra\CrossCutting\obj\Debug\net8.0\ref\Planets.Infra.CrossCutting.dll

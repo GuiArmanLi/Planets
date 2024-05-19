@@ -1,31 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.002.0
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planets", "Planets.csproj", "{64A0A260-630F-426B-AE0F-794043004BFD}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planets.Infra.Data", "Planets.Infra.Data\Planets.Infra.Data.csproj", "{D95DE995-EDE2-49F2-A8B9-B66C3BD022DC}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{64A0A260-630F-426B-AE0F-794043004BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64A0A260-630F-426B-AE0F-794043004BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{64A0A260-630F-426B-AE0F-794043004BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{64A0A260-630F-426B-AE0F-794043004BFD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D95DE995-EDE2-49F2-A8B9-B66C3BD022DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D95DE995-EDE2-49F2-A8B9-B66C3BD022DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D95DE995-EDE2-49F2-A8B9-B66C3BD022DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D95DE995-EDE2-49F2-A8B9-B66C3BD022DC}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {31945A4E-0E6A-49D4-A516-54D4954F2A4E}
-	EndGlobalSection
-EndGlobal
+

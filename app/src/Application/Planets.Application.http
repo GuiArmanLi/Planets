@@ -1,0 +1,6 @@
+@Planets.Application_HostAddress = http://localhost:5209
+
+GET {{Planets.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

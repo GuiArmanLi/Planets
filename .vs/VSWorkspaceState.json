@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\Application",
+    "\\app\\src\\Application\\Controllers",
+    "\\app\\src\\Domain",
+    "\\app\\src\\Domain\\DTOs",
+    "\\app\\src\\Infra",
+    "\\app\\src\\Infra\\Data",
+    "\\app\\src\\Infra\\Data\\Context"
+  ],
+  "SelectedNode": "\\app\\src\\Infra\\Data\\Context\\MySqlContext.cs",
+  "PreviewInSolutionExplorer": false
+}

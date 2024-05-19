@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LmTz3BlOwZ4TbXwSTRvs14ORZKG5Q55KlDuX169xTNjdVrjKuVB3pLq5GuoZyL/qzCINYt0TUTlH+3EKYWcK2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gui\\OneDrive\\Anexos\\Área de Trabalho\\Planets\\app\\src\\Infra\\CrossCutting\\Planets.Infra.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gui\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
